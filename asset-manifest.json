@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Bitcoin-web/static/css/main.7e2cfdff.css",
+    "main.js": "/Bitcoin-web/static/js/main.3d82c41c.js",
+    "static/js/592.23819a5e.chunk.js": "/Bitcoin-web/static/js/592.23819a5e.chunk.js",
+    "static/media/hero.svg": "/Bitcoin-web/static/media/hero.b08317a7d52c6a2bd97f3b40bf20f8c5.svg",
+    "static/media/dev.svg": "/Bitcoin-web/static/media/dev.19f6612f5fa374d900af28019eb357e4.svg",
+    "static/media/blockchain2.jpg": "/Bitcoin-web/static/media/blockchain2.cc6a2220571f1101341d.jpg",
+    "static/media/blockchain1.jpg": "/Bitcoin-web/static/media/blockchain1.5ef3fb08d06ca8c5580d.jpg",
+    "static/media/blockchain3.jpg": "/Bitcoin-web/static/media/blockchain3.a993961601b1fbe30016.jpg",
+    "static/media/profit1.svg": "/Bitcoin-web/static/media/profit1.6cf10868d60e9afc63ab6784c3a8b87b.svg",
+    "static/media/logo.svg": "/Bitcoin-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/insurance1.svg": "/Bitcoin-web/static/media/insurance1.5d8161dcc687c93267a74665ad29a72c.svg",
+    "static/media/wallet1.svg": "/Bitcoin-web/static/media/wallet1.5f22fe743d84027aad95111599b03bd8.svg",
+    "static/media/discord2.svg": "/Bitcoin-web/static/media/discord2.4e00e15f7a125f1259e76932aaccec6c.svg",
+    "static/media/discord.svg": "/Bitcoin-web/static/media/discord.f499d163e5b8eb0af65229dc6e9efe43.svg",
+    "static/media/blog.svg": "/Bitcoin-web/static/media/blog.e354c036b7319067dcd81b463c6c4cbb.svg",
+    "static/media/youtube2.svg": "/Bitcoin-web/static/media/youtube2.ae5aa12c038b37e8932076d273245bc4.svg",
+    "static/media/twitter.svg": "/Bitcoin-web/static/media/twitter.edbe6c9773fe9219097577d136c880f0.svg",
+    "static/media/youtube.svg": "/Bitcoin-web/static/media/youtube.1f30f6d5e3cede87f331dc8737e077bd.svg",
+    "index.html": "/Bitcoin-web/index.html",
+    "static/media/menu.svg": "/Bitcoin-web/static/media/menu.3c6d26e95d49a925eac3ab47f232f842.svg",
+    "static/media/telegram.svg": "/Bitcoin-web/static/media/telegram.4907a7c8baadc09079742f3582dd478c.svg",
+    "static/media/paper.svg": "/Bitcoin-web/static/media/paper.787d56f59f2c311df111d1c34a58a7a6.svg",
+    "static/media/search.svg": "/Bitcoin-web/static/media/search.517f20f7067ddc194ae21d1680c6b6ec.svg",
+    "main.7e2cfdff.css.map": "/Bitcoin-web/static/css/main.7e2cfdff.css.map",
+    "main.3d82c41c.js.map": "/Bitcoin-web/static/js/main.3d82c41c.js.map",
+    "592.23819a5e.chunk.js.map": "/Bitcoin-web/static/js/592.23819a5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e2cfdff.css",
+    "static/js/main.3d82c41c.js"
+  ]
+}
